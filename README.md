@@ -1,17 +1,38 @@
-# anpetna
-<strong>AnPetNa Team Project</strong>
-<p/>2025.08.01~2025.10.24
-<br/>AnPetNa는 “Animal , Pet and Me” 라는 의미로 
-<br/>반려동물 관련 정보를 한 곳에서 보고 (공지, 커뮤니티), 
-<br/>시설 (호텔·병원)을 탐색·예약하고,쇼핑/리뷰/알림까지 지원하는 통합 웹 서비스 입니다
-<p/>백엔드: SpringBoot
-<p/>프론트엔드: React(Next.js)
-<p/> 데이터베이스: MariaDB
-<p/> 배포 & 운영환경 : Jenkins + Docker + AWS EC2 + Ubuntu(ESXi) + Blue-Green Deployment + HTTPS
-<p/> 알림 :SSE
-<p/> 채팅 : Websocket
-<p/> 버전관리 : Github
-<p/>
+### 프로젝트 소개
+
+AnPetNa Team Project ( 2025.08.01~10.24 )\
+반려동물 시설, 정보, 물품 등  통합 웹페이지로,\
+각 조원의 도메인 설계 및 기능 구현, 협업을 통한 하나의 프로젝트 라이프 사이클을 직접 완성하는데 초점을 둠.
+
+> 기술 스택
+* SpringBoot 3.4.8 / React(Next.js) / MariaDB
+* Local Deployment (ESXI, Docker)
+* Cloud Deployment (Jenkins, Docker, AWS EC2)
+* Function : SSE, Websocket
+  
+> 인프라 아키택처
+* 이미지 활용
+
+> Features
+* Access Control Matrix ( 역할 & 기능 기반)
+
+<hr></hr>
+
+### 문제해결과정
+
+<details>
+   <summary><strong>Issue 1. 한 줄 요약</strong></summary><br/>
+  
+  > 문제 상황
+    * 
+  > 원인 분석
+  
+  > 해결 방법
+
+  > 결과
+</details>
+
+<hr></hr>
 <strong>[문서자료/Notion]</strong> 
 <br>https://www.notion.so/28dd7dcc2c2a80d18315c499eecee58d?v=28dd7dcc2c2a805d896b000cb7fdfdaf&source=copy_link</br>
 <p/>
